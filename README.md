@@ -1,4 +1,4 @@
-# Emoji-Interpreter-mark8-
+# Emoji-Interpreter-mark8
 Created with CodeSandbox
 
 # Problem Statement:
